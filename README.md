@@ -6,7 +6,10 @@ This repository contains my solution for the AI Engineer technical test. The goa
 - **GitHub Repository**: [Source Code & Documentation](https://github.com/DanielCaro317/Test-Interview)
 - **Make.com Public Scenario**: [Integration Template](https://us2.make.com/public/shared-scenario/HFrgB7u0qj6/integration-google-drive-open-ai-chat-gp)
 - **Live Google Drive Folder**: [Project Workspace (Inputs & Outputs)](https://drive.google.com/drive/folders/12w8hsFzveTXSqyvvAFbriC-fEcp9rPFi?usp=sharing)
-
+- **Video Explicativo**: Puede encontrar el video paso a paso grabado (2026-04-03 15-36-28.mov) directamente en este repositorio. Debido a su tamaño, ha sido subido mediante Git LFS. Para visualizarlo o descargarlo:
+  1. Vaya a la página de inicio del repositorio en GitHub.
+  2. Haga clic en el archivo `2026-04-03 15-36-28.mov`.
+  3. Haga clic en el botón **Download** (o en el ícono de descarga) para obtener el archivo original.
 ## Part 1: Solution Architecture
 
 ### Core Components
