@@ -1,0 +1,5 @@
+*.mp3
+*.m4a
+*.aiff
+client_secret*.json
+.DS_Store
